@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Let's try  to deploy first and then now do the changess!!!
+          Hello world
         </a>
       </header>
     </div>
